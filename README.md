@@ -4,7 +4,7 @@
 
 **Técnico en Programación de Software (SENA) · Desarrollador web full stack · Neiva, Huila 🇨🇴**
 
-Construyo aplicaciones web que resuelven problemas reales: una plataforma escolar, una comunidad para psicólogos y una app web de tamizaje pediátrico. Estudio Psicología para aportar como Scrum Master y en la dirección de proyectos de software.
+Construyo aplicaciones web que resuelven problemas reales: una plataforma escolar, una comunidad para psicólogos y una app web de tamizaje pediátrico. Estudio Ingeniería de Software y Psicología: la primera para construir con método y la segunda para aportar como Scrum Master y en la dirección de proyectos de software.
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-daplamo.github.io-B8860B?style=for-the-badge)](https://daplamo.github.io)
 [![Correo](https://img.shields.io/badge/Correo-davidplazasmorales%40gmail.com-8B1E1E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidplazasmorales@gmail.com)
@@ -40,6 +40,7 @@ Construyo aplicaciones web que resuelven problemas reales: una plataforma escola
 
 ### 🎓 Formación
 
+- **Ingeniería de Software** (en curso)
 - **Psicología** (en curso)
 - **Técnico en Programación de Software**, SENA (2025)
 - Python I (UC Chile) · Data Analytics y Excel (IBM) · Network Security (Cisco)
