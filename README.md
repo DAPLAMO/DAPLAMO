@@ -33,9 +33,11 @@ Construyo aplicaciones web y móviles que resuelven problemas reales: una plataf
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **POE** | Plataforma escolar para estudiantes y egresados de mi colegio (propiedad de la institución; código a solicitud). Fui Scrum Master del equipo de 4 desarrolladores. | PHP · MySQL · Bootstrap |
-| [**Vigía**](https://github.com/DAPLAMO/vigia-pediatrica) | App móvil de tamizaje pediátrico: leucocoria, ictericia y estrabismo con la cámara. | JavaScript · Capacitor · Android |
-| [**PsicoSocial**](https://github.com/DAPLAMO/psicosocial) | Comunidad de orientación entre psicólogos verificados, con roles y panel de administración. | Laravel · Tailwind · MySQL |
+| **Vigía** | App móvil de tamizaje pediátrico: leucocoria, ictericia y estrabismo con la cámara. | JavaScript · Capacitor · Android |
+| **PsicoSocial** | Comunidad de orientación entre psicólogos verificados, con roles y panel de administración. | Laravel · Tailwind · MySQL |
 | [**Pilatos**](https://github.com/DAPLAMO/david-pilatos) | Práctica SENA: réplica responsive de una tienda de ropa en línea. | HTML · CSS · Bootstrap |
+
+> El código de POE, Vigía y PsicoSocial es privado; está disponible a solicitud para procesos de selección.
 
 ### 🎓 Formación
 
