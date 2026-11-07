@@ -8,6 +8,7 @@ Construyo aplicaciones web que resuelven problemas reales: una plataforma escola
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-daplamo.github.io-B8860B?style=for-the-badge)](https://daplamo.github.io)
 [![Correo](https://img.shields.io/badge/Correo-davidplazasmorales%40gmail.com-8B1E1E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidplazasmorales@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidplazasmorales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidplazasmorales)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+57_321_455_8862-2a1a12?style=for-the-badge&logo=whatsapp&logoColor=D4A937)](https://wa.me/573214558862)
 
 </div>
