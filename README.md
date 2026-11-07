@@ -8,7 +8,7 @@ Construyo aplicaciones web y móviles que resuelven problemas reales: una plataf
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-daplamo.github.io-B8860B?style=for-the-badge)](https://daplamo.github.io)
 [![Correo](https://img.shields.io/badge/Correo-davidplazasmorales%40gmail.com-8B1E1E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidplazasmorales@gmail.com)
-[![GitHub](https://img.shields.io/badge/Proyecto_principal-POE-2a1a12?style=for-the-badge&logo=github&logoColor=D4A937)](https://github.com/DAPLAMO/POE-plataforma-escolar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+57_321_455_8862-2a1a12?style=for-the-badge&logo=whatsapp&logoColor=D4A937)](https://wa.me/573214558862)
 
 </div>
 
@@ -32,7 +32,7 @@ Construyo aplicaciones web y móviles que resuelven problemas reales: una plataf
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**POE**](https://github.com/DAPLAMO/POE-plataforma-escolar) | Plataforma escolar para estudiantes y egresados. Lideré el equipo de 4 desarrolladores. | PHP · MySQL · Bootstrap |
+| **POE** | Plataforma escolar para estudiantes y egresados de mi colegio (propiedad de la institución; código a solicitud). Fui Scrum Master del equipo de 4 desarrolladores. | PHP · MySQL · Bootstrap |
 | [**Vigía**](https://github.com/DAPLAMO/vigia-pediatrica) | App móvil de tamizaje pediátrico: leucocoria, ictericia y estrabismo con la cámara. | JavaScript · Capacitor · Android |
 | [**PsicoSocial**](https://github.com/DAPLAMO/psicosocial) | Comunidad de orientación entre psicólogos verificados, con roles y panel de administración. | Laravel · Tailwind · MySQL |
 | [**Pilatos**](https://github.com/DAPLAMO/david-pilatos) | Práctica SENA: réplica responsive de una tienda de ropa en línea. | HTML · CSS · Bootstrap |
